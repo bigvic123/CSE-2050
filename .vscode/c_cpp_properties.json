@@ -10,9 +10,13 @@
                 "UNICODE",
                 "_UNICODE"
             ],
+<<<<<<< HEAD
             "intelliSenseMode": "windows-gcc-x64",
             "configurationProvider": "ms-vscode.makefile-tools",
             "compilerPath": "C:/MinGW/bin/gcc.exe"
+=======
+            "intelliSenseMode": "windows-msvc-x64"
+>>>>>>> e950091bc606d1545344ef6f1ecc527b075652b9
         }
     ],
     "version": 4
